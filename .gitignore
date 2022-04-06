@@ -131,3 +131,4 @@ dmypy.json
 
 # sublime workspace
 *.sublime-workspace
+*.sublime-project
