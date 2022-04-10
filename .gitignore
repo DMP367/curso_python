@@ -102,10 +102,10 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.curso
-.env
+.curs
+.oenv
 .venv
-env/
+.env/
 venv/
 ENV/
 env.bak/
@@ -128,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# sublime workspace
+*.sublime-workspace
+*.sublime-project
